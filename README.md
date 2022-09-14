@@ -8,7 +8,7 @@ Audio noise reduction for speech recognition applications
 
 The structure is shown below
 
-
+<div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/demucs.png" width="400" height="400" /></div>
 
 ### Our noise reduction model
 
