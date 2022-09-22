@@ -13,7 +13,7 @@ The structure is shown below
 
 
 
-<audio src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/20220915_114314.wav" ></audio>
+<audio src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/20220915_114314.wav" controls ></audio>
 
 ### Our noise reduction model
 
