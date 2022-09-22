@@ -11,8 +11,9 @@ The structure is shown below
 <div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/demucs.png" width="400" height="400" /></div>
 
 
-https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/20220915_114314.wav
 
+
+<audio src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/20220915_114314.wav" ></audio>
 
 ### Our noise reduction model
 
