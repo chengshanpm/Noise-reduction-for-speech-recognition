@@ -10,6 +10,7 @@ The structure is shown below
 
 <div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/demucs.png" width="400" height="400" /></div>
 
+According to this model we used audio to test, the results are as follows:
 
 
 
