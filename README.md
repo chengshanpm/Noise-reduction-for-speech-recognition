@@ -16,12 +16,21 @@ According to this model we used audio to test, the results are as follows:
 
 **Original sound**
 
+https://user-images.githubusercontent.com/94374226/191673493-d94e8ac5-502c-43e4-adde-9cc6a4ae781a.mp4
+
+https://user-images.githubusercontent.com/94374226/191673521-4e186c2c-1157-481c-948c-f8e7bfce4020.mp4
 
 **DNS64 traning result**
 
+https://user-images.githubusercontent.com/94374226/191673610-8c7bbd4a-9fec-47a1-b4e5-28fb994b4584.mp4
+
+https://user-images.githubusercontent.com/94374226/191673619-a54c433e-b480-4a17-aa8c-85de3005f509.mp4
 
 **Valentini traning result**
 
+https://user-images.githubusercontent.com/94374226/191673657-d4d0ea47-8f90-4a28-bf31-95261a4ddf9d.mp4
+
+https://user-images.githubusercontent.com/94374226/191673670-bc68b5ee-b64f-44ba-9f1e-28ed9bb940ec.mp4
 
 ### Our noise reduction model
 
