@@ -35,6 +35,10 @@ https://user-images.githubusercontent.com/94374226/191673657-d4d0ea47-8f90-4a28-
 
 https://user-images.githubusercontent.com/94374226/191673670-bc68b5ee-b64f-44ba-9f1e-28ed9bb940ec.mp4
 
+#### Speech separation model based on DRNN
+The general framework is as follows:
+
+
 ### Our noise reduction model
 
 
