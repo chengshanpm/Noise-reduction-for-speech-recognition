@@ -39,6 +39,8 @@ https://user-images.githubusercontent.com/94374226/191673670-bc68b5ee-b64f-44ba-
 The general framework is as follows:
 <div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/proposed%20frame.png" width="600" height="200" /></div>
 
+The phase spectrum and amplitude spectrum were obtained by Fourier transform of mixed signals containing noise. The amplitude spectrum was used as input features to perform joint discriminant training of deep recurrent neural networks to obtain the estimated amplitude spectrum, and then the inverse Fourier transform was performed. Evaluate the results.
+
 The DRNN(Deep Recurrent Neural Network) structure is as follows:
 <div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/DRNN%20structure.png" width="400" height="400" /></div>
 
