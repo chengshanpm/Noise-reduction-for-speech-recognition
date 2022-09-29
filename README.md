@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/94374226/191673670-bc68b5ee-b64f-44ba-
 
 
 
-## Connect to Google Translate database through API
+## Connect to iFlytek Translate database through API
 
 
 
