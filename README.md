@@ -40,7 +40,7 @@ The general framework is as follows:
 <div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/proposed%20frame.png" width="600" height="200" /></div>
 
 The DRNN(Deep Recurrent Neural Network) structure is as follows:
-
+<div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/DRNN%20structure.png" width="400" height="400" /></div>
 
 ### Our noise reduction model
 
