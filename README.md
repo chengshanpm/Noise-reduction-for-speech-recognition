@@ -61,5 +61,5 @@ If recording is not started, click the record button to jump to the recording sc
 <div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/Not%20recorded.png" width="200" height="400" /></div>
 
 Screen in recording, click the button to jump to the screen that has not started recording.
-<div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/Not%20recorded.png" width="200" height="400" /></div>
+<div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/In%20the%20recording.png" width="200" height="400" /></div>
 
