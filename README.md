@@ -53,6 +53,14 @@ The DRNN(Deep Recurrent Neural Network) structure is as follows:
 
 
 ## Adaptation of mobile phones and other devices
+We develop software for Android phones based on the Android Studio platform. This software mainly realizes real-time speech noise reduction and real-time speech recognition. By turning on and off the noise reduction button, we can observe obvious differences in speech recognition accuracy, so as to judge our noise reduction effect.
 
+The recognition language is only English at present. There are two interfaces, respectively as follows:
+
+If recording is not started, click the record button to jump to the recording screen.
+
+
+
+Screen in recording, click the button to jump to the screen that has not started recording.
 
 
