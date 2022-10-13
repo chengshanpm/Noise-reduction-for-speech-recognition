@@ -45,8 +45,17 @@ The DRNN(Deep Recurrent Neural Network) structure is as follows:
 <div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/DRNN%20structure.png" width="400" height="400" /></div>
 
 #### Speech separation model based on DNN
-In this work, DNN is adopted as a regression model to predict the log-power spectral features of the target speaker given the input log-power spectral features of mixed speech with acoustic context, which is shown in Fig. The log-power spectral features can offer perceptually relevant parameters. The acoustic context information along both time axis (with multiple neighboring frames) and frequency axis (with full frequency bins) can be fully utilized by DNN to improve the continuity of estimated clean speech while the conventional GMM-based approach do not model the temporal dynamics of speech.
+DNN is adopted as a regression model to predict the log-power spectral features of the target speaker given the input log-power spectral features of mixed speech with acoustic context, which is shown in Fig. The log-power spectral features can offer perceptually relevant parameters. The acoustic context information along both time axis (with multiple neighboring frames) and frequency axis (with full frequency bins) can be fully utilized by DNN to improve the continuity of estimated clean speech while the conventional GMM-based approach do not model the temporal dynamics of speech.
 <div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/dnn.jpeg" width="400" height="400" /></div>
+
+##### Training and Results
+In the previous attempts to solve the noise separation problem with demucs, excessive noise reduction often occurred under the condition of strong noise, that is, part of the human voice was also removed, resulting in the problem of human voice discontinuity in the results. In the results obtained by the DNN-based speech separation algorithm, the discontinuity of human voice has been greatly improved, and the sound quality of human voice has also been improved, and the corresponding accuracy of speech recognition has also been improved.
+
+According to this model audio test results are as follows:
+
+https://user-images.githubusercontent.com/94374226/195542389-62a6c02e-9673-4f43-a671-c386d7bd6e30.mp4
+
+https://user-images.githubusercontent.com/94374226/195542412-bd8d6c0b-d9d9-473c-833d-d4d125262e71.mp4
 
 ### Our noise reduction model
 
