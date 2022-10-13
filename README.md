@@ -44,6 +44,10 @@ The phase spectrum and amplitude spectrum of mixed signal with noise are obtaine
 The DRNN(Deep Recurrent Neural Network) structure is as follows:
 <div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/DRNN%20structure.png" width="400" height="400" /></div>
 
+#### Speech separation model based on DNN
+In this work, DNN is adopted as a regression model to predict the log-power spectral features of the target speaker given the input log-power spectral features of mixed speech with acoustic context, which is shown in Fig. The log-power spectral features can offer perceptually relevant parameters. The acoustic context information along both time axis (with multiple neighboring frames) and frequency axis (with full frequency bins) can be fully utilized by DNN to improve the continuity of estimated clean speech while the conventional GMM-based approach do not model the temporal dynamics of speech.
+<div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/dnn.jpeg" width="400" height="400" /></div>
+
 ### Our noise reduction model
 
 
