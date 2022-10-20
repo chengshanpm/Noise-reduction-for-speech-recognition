@@ -99,3 +99,7 @@ class Client():
     def close(self):
         self.ws.close()
         print ("connection closed")
+        
+if __name__ == '__main__':
+    client = Client()
+    client.send(file_path)
