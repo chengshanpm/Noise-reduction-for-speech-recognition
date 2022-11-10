@@ -64,6 +64,10 @@ https://user-images.githubusercontent.com/94374226/195542412-bd8d6c0b-d9d9-473c-
 ## Connect to iFlytek Translate database through API
 
 
+## Virtual sound card
+Refer to the windows virtual sound card [Virtual-Audio-Pipeline](https://github.com/syams86/Virtual-Audio-Pipeline/tree/master/Virtual%20Audio%20Pipeline)
+The logical structure of sound card creation is as follows
+
 
 ## Adaptation of mobile phones and other devices
 We develop software for Android phones based on the Android Studio platform. This software mainly realizes real-time speech noise reduction and real-time speech recognition. By turning on and off the noise reduction button, we can observe obvious differences in speech recognition accuracy, so as to judge our noise reduction effect.
