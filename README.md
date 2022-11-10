@@ -66,7 +66,8 @@ https://user-images.githubusercontent.com/94374226/195542412-bd8d6c0b-d9d9-473c-
 
 ## Virtual sound card
 Refer to the windows virtual sound card [Virtual-Audio-Pipeline](https://github.com/syams86/Virtual-Audio-Pipeline/tree/master/Virtual%20Audio%20Pipeline)
-The logical structure of sound card creation is as follows
+The logical structure of sound card creation is as follows:
+<div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/virtual_soud_card_structure.png" width="400" height="400" /></div>
 
 
 ## Adaptation of mobile phones and other devices
