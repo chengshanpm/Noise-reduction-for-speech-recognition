@@ -1,0 +1,4 @@
+file 'C:/dnndenoiser/HelloWorld/static/clean/20220915_114314/noise/denoise_segments\00.wav'
+file 'C:/dnndenoiser/HelloWorld/static/clean/20220915_114314/noise/denoise_segments\01.wav'
+file 'C:/dnndenoiser/HelloWorld/static/clean/20220915_114314/noise/denoise_segments\02.wav'
+file 'C:/dnndenoiser/HelloWorld/static/clean/20220915_114314/noise/denoise_segments\03.wav'
