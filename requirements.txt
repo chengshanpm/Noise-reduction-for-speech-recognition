@@ -1,0 +1,17 @@
+chainer==6.1.0
+librosa==0.7.2
+pandas==1.3.5
+pydub==0.25.1
+opencv-python==4.5.5.64
+tensorflow==2.2.0
+requests==2.27.1
+llvmlite==0.31.0        # Pinning supporting packages to resolve conflict
+numba==0.48.0           # Pinning supporting packages to resolve conflict
+cupy==6.1.0
+ideep4py                # Optim CPU for Chainer
+cython
+matplotlib==3.5.2
+seaborn
+scipy==1.4.1
+uvicorn==0.20.0
+fastapi
