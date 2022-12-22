@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ulang.nts.MainActivity"
+    android:gravity="center">
+
+
+
+    <Button
+        android:id="@+id/ns_red"
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:background="@drawable/button_circle_shape"
+        android:text="microphone"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="500dp"
+        android:textSize="12sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="click to start recording"
+        android:textSize="30dp"
+        />
+
+</LinearLayout>
