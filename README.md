@@ -61,10 +61,6 @@ https://user-images.githubusercontent.com/94374226/195542412-bd8d6c0b-d9d9-473c-
 
 
 
-## Connect to iFlytek Translate database through API
-
-
-
 ## Adaptation of mobile phones and other devices
 We develop software for Android phones based on the Android Studio platform. This software mainly realizes real-time speech noise reduction and real-time speech recognition. By turning on and off the noise reduction button, we can observe obvious differences in speech recognition accuracy, so as to judge our noise reduction effect.
 
