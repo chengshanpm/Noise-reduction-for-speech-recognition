@@ -64,22 +64,11 @@ https://user-images.githubusercontent.com/94374226/195542412-bd8d6c0b-d9d9-473c-
 ## Connect to iFlytek Translate database through API
 
 
-## Virtual sound card
-Refer to the windows virtual sound card [Virtual-Audio-Pipeline](https://github.com/syams86/Virtual-Audio-Pipeline/tree/master/Virtual%20Audio%20Pipeline)
-
-The logical structure of sound card creation is as follows:
-<div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/virtual_soud_card_structure.png" width="400" height="200" /></div>
-
 
 ## Adaptation of mobile phones and other devices
 We develop software for Android phones based on the Android Studio platform. This software mainly realizes real-time speech noise reduction and real-time speech recognition. By turning on and off the noise reduction button, we can observe obvious differences in speech recognition accuracy, so as to judge our noise reduction effect.
 
-The recognition language is only English at present. There are two interfaces, respectively as follows:
+The recognition language is only English at present.
 
-If recording is not started, click the record button to jump to the recording screen.
-<div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/Not%20recorded.png" width="200" height="400" /></div>
-
-Screen in recording, click the button to jump to the screen that has not started recording.
-<div align=center><img src="https://github.com/chengshanpm/Noise_reduction_for_speech_recognition/blob/main/images/In%20the%20recording.png" width="200" height="400" /></div>
 
 
